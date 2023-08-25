@@ -15,13 +15,13 @@
 ## Datos de Entrega:
 
 <p align="center" >
-     <img width="300" heigth="200" src="./src/assets/img/Proyecto3.png">
+     <img width="300" heigth="200" src="./src/assets/img/Proyecto 3.png">
 </p>
 
 ## Formulario completado:
 
 <p align="center" >
-     <img width="300" heigth="200" src="./src/assets/img/Proyecto4.png">
+     <img width="300" heigth="200" src="./src/assets/img/Proyecto 4.png">
 </p>
 
 ### ¡Bienvenido a mi repositorio! Si te gusto agradecería:
